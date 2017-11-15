@@ -1,0 +1,73 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+.display-3 {
+    font-size: 3.5rem;
+}
+
+.first-section {
+    padding: 2em;
+    background-color: #eceeef;   
+}
+
+.second-section {
+    background-color: #cccccc;
+}
+
+
+.btn-more {
+    margin-top:1.1rem;
+    margin-bottom:1.1rem;
+}
+
+.more-costumes {
+    display: block;
+    margin: auto;
+}
+
+.img-section-3 {
+    display: block;
+    margin: auto;
+}
+
+.btn-sec-3 {
+    display: block;
+    margin: auto;
+    margin-top: 1.1rem;
+    margin-bottom: 1.1rem;
+}
+
+.modal-title {
+    margin: auto;
+}
+
+.logo-modal {
+    display: block;
+    margin: auto;
+}
+
+.modal-form {
+    padding: 2rem;
+}
+.footer-logo {
+    padding: 1rem;
+}
+
+.fa {
+    margin: .8rem;
+}
+.social {
+    margin: auto;
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+}
+.fa-google-plus-square {
+    color: #c32f10;
+}
+.fa-instagram {
+    color: white;
+}
